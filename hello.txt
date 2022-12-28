@@ -10,3 +10,4 @@ hello chenzhaohua! hello git!
 hello chenzhaohua! hello git!
 修改修改！！
 master-commit1
+hot-fix12
